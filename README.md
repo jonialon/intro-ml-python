@@ -10,20 +10,13 @@ machine learning packages in Python. The packages covered are:
 
 ## IPython Notebooks:
 
-* [Chapter 1: NumPy Basics: Arrays and Vectorized Computation](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch04.ipynb)
-* [Chapter 2: Matplotlib: Plotting and Visualization](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch09.ipynb)
-* [Chapter 3: Pandas: Data Analysis and Manipulation](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch05.ipynb)
-* [Chapter 4: Scikit-learn: Machine Learning](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch13.ipynb)
+* [Chapter 1: NumPy Basics: Arrays and Vectorized Computation](https://github.com/jonialon/intro-ml-python/blob/main/NumPy.ipynb)
+* [Chapter 2: Matplotlib: Plotting and Visualization](https://github.com/jonialon/intro-ml-python/blob/main/Matplotlib.ipynb)
+* [Chapter 3: Pandas: Data Analysis and Manipulation](https://github.com/jonialon/intro-ml-python/blob/main/Pandas.ipynb)
+* [Chapter 4: Scikit-learn: Machine Learning](https://github.com/jonialon/intro-ml-python/blob/main/Sklearn.ipynb)
 
 ## License
 
-### Code
-
-The code in this repository, including all code samples in the notebooks listed
-above, is released under the [MIT license](LICENSE-CODE). Read more at the
-[Open Source Initiative](https://opensource.org/licenses/MIT).
-
-[1]: https://amzn.to/3DyLaJc
-[2]: https://github.com/wesm/pydata-book/tree/1st-edition
-[5]: https://github.com/wesm/pydata-book/tree/2nd-edition
-[6]: https://wesmckinney.com/book/
+See:  
+[1]: https://github.com/jakevdp/PythonDataScienceHandbook  
+[2]: https://github.com/wesm/pydata-book  
